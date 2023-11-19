@@ -6,8 +6,6 @@ section {
     padding: 20px;
     margin: 25px;
     background-color: rgba(132, 142, 220, 0.45);
-    margin-left: auto;
-    margin-right: auto;
   }
 
  * {
@@ -17,5 +15,11 @@ section {
 
 body {
   background-color: rgba(24,24,24,255);
+}
+
+/* Center all, comment out to decenter all */
+section, body { 
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
