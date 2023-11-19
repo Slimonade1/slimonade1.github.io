@@ -10,4 +10,9 @@ section {
 
  * {
     font-family: 'Montserrat', sans-serif;
+    color: white;
   }
+
+body {
+  background-color: rgba(24,24,24,255);
+}
